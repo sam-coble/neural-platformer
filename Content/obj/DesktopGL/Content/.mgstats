@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/sam/Documents/mg/BrainGame/BrainGame/Content/BlackNode.png","/Users/sam/Documents/mg/BrainGame/BrainGame/Content/bin/DesktopGL/Content/BlackNode.xnb","TextureProcessor","Texture2DContent",1539,65621,0.255027
+"/Users/sam/Documents/mg/BrainGame/BrainGame/Content/BlackRect.png","/Users/sam/Documents/mg/BrainGame/BrainGame/Content/bin/DesktopGL/Content/BlackRect.xnb","TextureProcessor","Texture2DContent",72,89,0.209708
+"/Users/sam/Documents/mg/BrainGame/BrainGame/Content/WhiteNode.png","/Users/sam/Documents/mg/BrainGame/BrainGame/Content/bin/DesktopGL/Content/WhiteNode.xnb","TextureProcessor","Texture2DContent",1440,65621,0.007442
+"/Users/sam/Documents/mg/BrainGame/BrainGame/Content/WhiteRect.png","/Users/sam/Documents/mg/BrainGame/BrainGame/Content/bin/DesktopGL/Content/WhiteRect.xnb","TextureProcessor","Texture2DContent",72,89,0.224194
